@@ -1,4 +1,5 @@
-<p>To run this app, execute following commands in the terminal</p>
+To run this app, execute following commands in the terminal
+
 ```
 composer install
 npm install && npm run dev
