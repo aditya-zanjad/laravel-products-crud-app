@@ -2,10 +2,25 @@ To run this app, execute following commands in the terminal
 
 ```
 composer install
+```
+
+```
 npm install && npm run dev
+```
+
+```
 cp .env.example .env
+```
+
+```
 php artisan key:generate
+```
+
+```
 php artisan migrate
+```
+
+```
 php artisan db:seed
 ```
 <hr />
